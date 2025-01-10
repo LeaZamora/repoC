@@ -1,0 +1,10 @@
+/var/jenkins_home/workspace/Test 01/grpc/include/grpc/impl/channel_arg_names.h:22: warning: missing title after \defgroup grpc_arg_keys
+/var/jenkins_home/workspace/Test 01/grpc/include/grpc/impl/file.cpp:33: warning: missing title after \defgroup grpc_arg_keys
+Possible candidates:
+  'Reader & grpc_core::RequestBuffer::Reader::operator=(const Reader &)=delete' at line 46 of file /var/jenkins_home/workspace/Test_01/repoA/src/core/call/request_buffer.h
+  'SubchannelKey & grpc_core::SubchannelKey::operator=(const SubchannelKey &other)=default' at line 44 of file /var/jenkins_home/workspace/Test_01/repoA/src/core/client_channel/subchannel_pool_interface.h
+  'SubchannelKey & grpc_core::SubchannelKey::operator=(SubchannelKey &&other) noexcept=default' at line 46 of file /var/jenkins_home/workspace/Test_01/repoA/src/core/client_channel/subchannel_pool_interface.h
+  'ConfigVars & grpc_core::ConfigVars::operator=(const ConfigVars &)=delete' at line 51 of file /var/jenkins_home/workspace/Test_01/repoA/src/core/config/config_vars.h
+  'CoreConfiguration & grpc_core::CoreConfiguration::operator=(const CoreConfiguration &)=delete' at line 41 of file /var/jenkins_home/workspace/Test_01/repoA/src/core/config/core_configuration.h
+  'IdleFilterState & grpc_core::IdleFilterState::operator=(const IdleFilterState &)=delete' at line 34 of file /var/jenkins_home/workspace/Test_01/repoA/src/core/ext/filters/channel_idle/idle_filter_state.h
+  'LegacyChannelIdleFilter & grpc_core::LegacyChannelIdleFilter::operator=(const LegacyChannelIdleFilter &)=delete' at line 53 of file /var/jenkins_home/workspace/Test_01/repoA/src/core/ext/filters/channel_idle/legacy_channel_idle_filter.h
